@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roketo-org/roketo-app-3/issues"
   },
-  "homepage": "https://github.com/roketo-org/roketo-app-3#readme"
+  "homepage": "https://github.com/roketo-org/roketo-app-3#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
 }
