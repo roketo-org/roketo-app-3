@@ -1,0 +1,19 @@
+{
+  "name": "rocketo-app-3",
+  "version": "1.0.0",
+  "description": "an app of roketo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roketo-org/roketo-app-3.git"
+  },
+  "author": "niei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roketo-org/roketo-app-3/issues"
+  },
+  "homepage": "https://github.com/roketo-org/roketo-app-3#readme"
+}
